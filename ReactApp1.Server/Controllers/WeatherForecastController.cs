@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace TMC.Portal.Server.Controllers
+namespace ReactApp1.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

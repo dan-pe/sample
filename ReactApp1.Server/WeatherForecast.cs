@@ -1,4 +1,4 @@
-namespace TMC.Portal.Server
+namespace ReactApp1.Server
 {
     public class WeatherForecast
     {

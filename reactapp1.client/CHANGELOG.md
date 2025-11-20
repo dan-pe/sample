@@ -4,8 +4,11 @@ Następujące narzędzia zostały użyte do wygenerowania tego projektu:
 - create-vite
 
 Następujące kroki zostały użyte do wygenerowania tego projektu:
-- Utwórz projekt React z create-vite: `npm init --yes vite@latest tmc.portal.client -- --template=react-ts`.
-- Utwórz plik projektu (`tmc.portal.client.esproj`).
+- Utwórz projekt React z create-vite: `npm init --yes vite@latest reactapp1.client -- --template=react-ts`.
+- Zaktualizuj `vite.config.ts`, aby skonfigurować serwer proxy i certyfikaty.
+- Dodaj `@type/node` do wpisywania `vite.config.js`.
+- Zaktualizuj składnik `App`, aby pobrać i wyświetlić informacje o pogodzie.
+- Utwórz plik projektu (`reactapp1.client.esproj`).
 - Utwórz `launch.json`, aby włączyć debugowanie.
 - Dodaj projekt do rozwiązania.
 - Zaktualizuj punkt końcowy serwera proxy, aby był punktem końcowym serwera zaplecza.
