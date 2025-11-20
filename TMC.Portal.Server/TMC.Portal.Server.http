@@ -1,0 +1,6 @@
+@TMC.Portal.Server_HostAddress = http://localhost:5070
+
+GET {{TMC.Portal.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

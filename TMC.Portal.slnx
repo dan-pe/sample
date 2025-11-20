@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="tmc.portal.client/tmc.portal.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="TMC.Portal.Server/TMC.Portal.Server.csproj" />
+</Solution>
